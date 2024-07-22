@@ -1,0 +1,25 @@
+[27-Sep-2023 22:25:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ruhslzsa_bsit3b2022'@'localhost' (using password: YES) in /home/nuqkqixl/public_html/config.php on line 8
+[27-Sep-2023 23:29:12 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ruhslzsa_bsit3b2022'@'localhost' (using password: YES) in /home/nuqkqixl/public_html/config.php on line 8
+[27-Sep-2023 23:39:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ruhslzsa_bsit3b2022'@'localhost' (using password: YES) in /home/nuqkqixl/public_html/config.php on line 8
+[28-Sep-2023 00:20:10 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ruhslzsa_bsit3b2022'@'localhost' (using password: YES) in /home/nuqkqixl/public_html/config.php on line 8
+[28-Sep-2023 00:22:42 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ruhslzsa_bsit3b2022'@'localhost' (using password: YES) in /home/nuqkqixl/public_html/config.php on line 8
+[28-Sep-2023 03:12:52 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ruhslzsa_bsit3b2022'@'localhost' (using password: YES) in /home/nuqkqixl/public_html/config.php on line 8
+[28-Sep-2023 03:24:08 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ruhslzsa_bsit3b2022'@'localhost' (using password: YES) in /home/nuqkqixl/public_html/config.php on line 8
+[29-Sep-2023 04:43:47 UTC] PHP Warning:  Undefined variable $upload_bg in /home/nuqkqixl/public_html/signing_in.php on line 47
+[29-Sep-2023 04:43:47 UTC] PHP Warning:  Undefined variable $upload_bg in /home/nuqkqixl/public_html/signing_in.php on line 47
+[29-Sep-2023 17:34:14 UTC] PHP Warning:  Undefined array key "username" in /home/nuqkqixl/public_html/user_signin.php on line 5
+[29-Sep-2023 17:34:14 UTC] PHP Warning:  Undefined array key "password" in /home/nuqkqixl/public_html/user_signin.php on line 6
+[22-Nov-2023 22:59:05 UTC] PHP Warning:  Undefined array key "username" in /home/nuqkqixl/public_html/user_signin.php on line 5
+[22-Nov-2023 22:59:05 UTC] PHP Warning:  Undefined array key "password" in /home/nuqkqixl/public_html/user_signin.php on line 6
+[03-Dec-2023 15:16:31 UTC] PHP Warning:  Undefined array key "fnbkn" in /home/nuqkqixl/public_html/signing_in.php on line 98
+[03-Dec-2023 15:16:31 UTC] PHP Warning:  Undefined array key "qbtuyqug" in /home/nuqkqixl/public_html/signing_in.php on line 104
+[03-Dec-2023 15:47:24 UTC] PHP Warning:  Undefined array key "fnbkn" in /home/nuqkqixl/public_html/signing_in.php on line 98
+[03-Dec-2023 15:47:24 UTC] PHP Warning:  Undefined array key "qbtuyqug" in /home/nuqkqixl/public_html/signing_in.php on line 104
+[05-Dec-2023 10:03:04 UTC] PHP Warning:  Undefined array key "username" in /home/nuqkqixl/public_html/user_signin.php on line 5
+[05-Dec-2023 10:03:04 UTC] PHP Warning:  Undefined array key "password" in /home/nuqkqixl/public_html/user_signin.php on line 6
+[12-Dec-2023 14:11:46 UTC] PHP Warning:  Undefined array key "username" in /home/nuqkqixl/public_html/user_signin.php on line 5
+[12-Dec-2023 14:11:46 UTC] PHP Warning:  Undefined array key "password" in /home/nuqkqixl/public_html/user_signin.php on line 6
+[20-Feb-2024 07:07:39 UTC] PHP Warning:  Undefined array key "username" in /home/nuqkqixl/public_html/user_signin.php on line 5
+[20-Feb-2024 07:07:39 UTC] PHP Warning:  Undefined array key "password" in /home/nuqkqixl/public_html/user_signin.php on line 6
+[21-Mar-2024 07:46:22 UTC] PHP Warning:  Undefined array key "username" in /home/nuqkqixl/public_html/user_signin.php on line 5
+[21-Mar-2024 07:46:22 UTC] PHP Warning:  Undefined array key "password" in /home/nuqkqixl/public_html/user_signin.php on line 6
