@@ -9,11 +9,6 @@ if (isset($_GET['code'])) {
   // Received authorization code from Google, exchange it for access token
   $code = $_GET['code'];
 
-  $clientId = "739698917346-f8s70dlloor2261ip9bdufhnv21q2bo2.apps.googleusercontent.com";
-  $clientSecret = "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"; // Replace with your actual client secret
-  $redirectUri = "https://bergsticketing.com/enduser/home.php";
-
-  $tokenEndpoint = "https://oauth2.googleapis.com/token";
   $params = array(
     "code" => $code,
     "client_id" => $clientId,
