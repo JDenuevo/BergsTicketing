@@ -9,8 +9,9 @@ if (isset($_GET['code'])) {
     // Received authorization code from Google, exchange it for an access token
     $code = $_GET['code'];
 
-    $clientId = "YOUR_CLIENT_ID"; // Replace with your actual client ID
-    $clientSecret = "YOUR_CLIENT_SECRET"; // Replace with your actual client secret
+    // Use environment variables for sensitive information
+    $clientId = getenv('GOOGLE_CLIENT_ID');
+    $clientSecret = getenv('GOOGLE_CLIENT_SECRET');
     $redirectUri = "https://yourdomain.com/enduser/home.php"; // Replace with your actual redirect URI
 
     $tokenEndpoint = "https://oauth2.googleapis.com/token";
